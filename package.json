@@ -4,7 +4,9 @@
   "description": "Simple Next.js app project designed for deployment on AWS.",
   "main": "layout.tsx",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "author": "",
   "license": "MIT",
